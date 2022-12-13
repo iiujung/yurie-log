@@ -4,27 +4,27 @@ const CONFIG = {
     name: 'yurie-log',
     image: '/profile.png',
     discription: 'ui/ux designer',
-    linkedin: 'morethanmin',
-    email: 'morethanmin.dev@gmail.com',
-    github: 'morethanmin',
-    instagram: 'more_dev_min',
+    linkedin: 'yurie',
+    email: 'foradadad@gmail.com',
+    github: 'yurie',
+    // instagram: 'more_dev_min',
   },
   projects: [
     {
-      name: 'Untilled',
+      name: 'my project',
       href: 'https://untilled.web.app'
     }
   ],
   // blog setting
   blog: {
     title: 'yurie-log',
-    description: 'welcome to morethan-log!',
+    description: 'welcome to yurie-log!',
   },
 
   // CONFIG configration
   link: 'https://morethan-log.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   postsPerPage: 10,
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
