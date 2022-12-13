@@ -48,7 +48,7 @@ const CONFIG = {
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: 'f7013783dfa344cf9d1d929ed8b61adb' // ex. qvdR1gXMirk_DCUOKPgRnxu2x6fqSPrquYnEZZMjR9w
+      siteVerification: '' // ex. qvdR1gXMirk_DCUOKPgRnxu2x6fqSPrquYnEZZMjR9w
     }
   },
   utterances: {
