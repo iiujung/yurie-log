@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'morethan-log',
+    name: 'yurie-log',
     image: '/profile.png',
-    discription: 'frontend developer',
+    discription: 'ui/ux designer',
     linkedin: 'morethanmin',
     email: 'morethanmin.dev@gmail.com',
     github: 'morethanmin',
@@ -17,7 +17,7 @@ const CONFIG = {
   ],
   // blog setting
   blog: {
-    title: 'morethan-log',
+    title: 'yurie-log',
     description: 'welcome to morethan-log!',
   },
 
@@ -48,7 +48,7 @@ const CONFIG = {
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: '' // ex. qvdR1gXMirk_DCUOKPgRnxu2x6fqSPrquYnEZZMjR9w
+      siteVerification: 'f7013783dfa344cf9d1d929ed8b61adb' // ex. qvdR1gXMirk_DCUOKPgRnxu2x6fqSPrquYnEZZMjR9w
     }
   },
   utterances: {
