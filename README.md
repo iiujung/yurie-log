@@ -6,6 +6,7 @@ Static Blog and Resume using Notion and Next.js, deployed on Vercel.
 
 - Demo Blog:  https://morethan-log.vercel.app
 - Demo Resume: https://morethan-log.vercel.app/resume
+my: https://yurie-orezxdwtc-iiujung.vercel.app/
 
 ## Features
 
